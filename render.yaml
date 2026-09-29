@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: futbol-masa-oyunu
+    env: node
+    plan: free
+    buildCommand: npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: HOST_USERNAME
+        value: yuED10
+      - key: DEFAULT_INVITE_CODE
+        value: FUT2026

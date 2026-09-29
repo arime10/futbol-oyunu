@@ -1,0 +1,15 @@
+{
+  "name": "futbol-masa-oyunu",
+  "version": "1.0.0",
+  "description": "Futbol Çok Oyunculu Masa Oyunu & Sesli Sohbet (Football Room)",
+  "private": true,
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build && cd ../backend && npm install",
+    "start": "cd backend && node src/server.js",
+    "install-all": "cd frontend && npm install && cd ../backend && npm install",
+    "share": "npx --yes localtunnel --port 4000"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

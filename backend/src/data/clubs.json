@@ -1,0 +1,1122 @@
+[
+  {
+    "name": "",
+    "league": "Other",
+    "searchName": ""
+  },
+  {
+    "name": "1. FC Köln",
+    "league": "Other",
+    "searchName": "1 fc koln"
+  },
+  {
+    "name": "1. FC Union Berlin",
+    "league": "Bundesliga",
+    "searchName": "1 fc union berlin"
+  },
+  {
+    "name": "1. FSV Mainz 05",
+    "league": "Bundesliga",
+    "searchName": "1 fsv mainz 05"
+  },
+  {
+    "name": "Abha",
+    "league": "Other",
+    "searchName": "abha"
+  },
+  {
+    "name": "AC Milan",
+    "league": "Serie A",
+    "searchName": "ac milan"
+  },
+  {
+    "name": "AFC Bournemouth",
+    "league": "Premier League",
+    "searchName": "afc bournemouth"
+  },
+  {
+    "name": "AJ Auxerre",
+    "league": "Ligue 1",
+    "searchName": "aj auxerre"
+  },
+  {
+    "name": "Ajax",
+    "league": "Eredivisie",
+    "searchName": "ajax"
+  },
+  {
+    "name": "Al Ahli SFC",
+    "league": "Other",
+    "searchName": "al ahli sfc"
+  },
+  {
+    "name": "Al Ain",
+    "league": "Other",
+    "searchName": "al ain"
+  },
+  {
+    "name": "Al Diriyah",
+    "league": "Other",
+    "searchName": "al diriyah"
+  },
+  {
+    "name": "Al Faisaly",
+    "league": "Other",
+    "searchName": "al faisaly"
+  },
+  {
+    "name": "Al Fateh",
+    "league": "Other",
+    "searchName": "al fateh"
+  },
+  {
+    "name": "Al Hazem FC",
+    "league": "Eredivisie",
+    "searchName": "al hazem fc"
+  },
+  {
+    "name": "Al Hilal",
+    "league": "Other",
+    "searchName": "al hilal"
+  },
+  {
+    "name": "Al Ittihad",
+    "league": "Other",
+    "searchName": "al ittihad"
+  },
+  {
+    "name": "Al Khaleej",
+    "league": "Other",
+    "searchName": "al khaleej"
+  },
+  {
+    "name": "Al Nassr",
+    "league": "Other",
+    "searchName": "al nassr"
+  },
+  {
+    "name": "Al Qadsiah FC",
+    "league": "Other",
+    "searchName": "al qadsiah fc"
+  },
+  {
+    "name": "Al Shabab",
+    "league": "Other",
+    "searchName": "al shabab"
+  },
+  {
+    "name": "Al Taawoun FC",
+    "league": "Other",
+    "searchName": "al taawoun fc"
+  },
+  {
+    "name": "Alanyaspor",
+    "league": "Süper Lig",
+    "searchName": "alanyaspor"
+  },
+  {
+    "name": "Arsenal FC",
+    "league": "Premier League",
+    "searchName": "arsenal fc"
+  },
+  {
+    "name": "AS Monaco",
+    "league": "Ligue 1",
+    "searchName": "as monaco"
+  },
+  {
+    "name": "AS Roma",
+    "league": "Serie A",
+    "searchName": "as roma"
+  },
+  {
+    "name": "AS Saint-Étienne",
+    "league": "Ligue 1",
+    "searchName": "as saintetienne"
+  },
+  {
+    "name": "Aston Villa",
+    "league": "Premier League",
+    "searchName": "aston villa"
+  },
+  {
+    "name": "Atalanta BC",
+    "league": "Serie A",
+    "searchName": "atalanta bc"
+  },
+  {
+    "name": "Athletic Club",
+    "league": "La Liga",
+    "searchName": "athletic club"
+  },
+  {
+    "name": "Atlanta United",
+    "league": "Other",
+    "searchName": "atlanta united"
+  },
+  {
+    "name": "Atlético Madrid",
+    "league": "La Liga",
+    "searchName": "atletico madrid"
+  },
+  {
+    "name": "Atlético Mineiro",
+    "league": "Other",
+    "searchName": "atletico mineiro"
+  },
+  {
+    "name": "AZ Alkmaar",
+    "league": "Eredivisie",
+    "searchName": "az alkmaar"
+  },
+  {
+    "name": "Barcelona de Guayaquil",
+    "league": "La Liga",
+    "searchName": "barcelona de guayaquil"
+  },
+  {
+    "name": "Bayer 04 Leverkusen",
+    "league": "Bundesliga",
+    "searchName": "bayer 04 leverkusen"
+  },
+  {
+    "name": "Bayern München",
+    "league": "Bundesliga",
+    "searchName": "bayern munchen"
+  },
+  {
+    "name": "Belgrano de Córdoba",
+    "league": "Other",
+    "searchName": "belgrano de cordoba"
+  },
+  {
+    "name": "Beşiktaş JK",
+    "league": "Süper Lig",
+    "searchName": "besiktas jk"
+  },
+  {
+    "name": "Boca Juniors",
+    "league": "Other",
+    "searchName": "boca juniors"
+  },
+  {
+    "name": "Bologna FC",
+    "league": "Serie A",
+    "searchName": "bologna fc"
+  },
+  {
+    "name": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "searchName": "borussia dortmund"
+  },
+  {
+    "name": "Borussia Mönchengladbach",
+    "league": "Bundesliga",
+    "searchName": "borussia monchengladbach"
+  },
+  {
+    "name": "Botafogo",
+    "league": "Other",
+    "searchName": "botafogo"
+  },
+  {
+    "name": "Brentford",
+    "league": "Premier League",
+    "searchName": "brentford"
+  },
+  {
+    "name": "Brighton & Hove Albion",
+    "league": "Premier League",
+    "searchName": "brighton  hove albion"
+  },
+  {
+    "name": "CA Osasuna",
+    "league": "La Liga",
+    "searchName": "ca osasuna"
+  },
+  {
+    "name": "Cagliari",
+    "league": "Serie A",
+    "searchName": "cagliari"
+  },
+  {
+    "name": "CD Leganés",
+    "league": "La Liga",
+    "searchName": "cd leganes"
+  },
+  {
+    "name": "Celtic FC",
+    "league": "Other",
+    "searchName": "celtic fc"
+  },
+  {
+    "name": "Charlotte FC",
+    "league": "Other",
+    "searchName": "charlotte fc"
+  },
+  {
+    "name": "Charlton Athletic",
+    "league": "La Liga",
+    "searchName": "charlton athletic"
+  },
+  {
+    "name": "Chelsea FC",
+    "league": "Premier League",
+    "searchName": "chelsea fc"
+  },
+  {
+    "name": "Chicago Fire",
+    "league": "Other",
+    "searchName": "chicago fire"
+  },
+  {
+    "name": "Club América",
+    "league": "Other",
+    "searchName": "club america"
+  },
+  {
+    "name": "Club Brugge KV",
+    "league": "Other",
+    "searchName": "club brugge kv"
+  },
+  {
+    "name": "Club Nacional de Football",
+    "league": "Other",
+    "searchName": "club nacional de football"
+  },
+  {
+    "name": "Columbus Crew",
+    "league": "Other",
+    "searchName": "columbus crew"
+  },
+  {
+    "name": "Como",
+    "league": "Serie A",
+    "searchName": "como"
+  },
+  {
+    "name": "Corinthians",
+    "league": "Other",
+    "searchName": "corinthians"
+  },
+  {
+    "name": "Cruz Azul",
+    "league": "Eredivisie",
+    "searchName": "cruz azul"
+  },
+  {
+    "name": "Crystal Palace",
+    "league": "Premier League",
+    "searchName": "crystal palace"
+  },
+  {
+    "name": "Çaykur Rizespor",
+    "league": "Süper Lig",
+    "searchName": "caykur rizespor"
+  },
+  {
+    "name": "Deportivo Alavés",
+    "league": "La Liga",
+    "searchName": "deportivo alaves"
+  },
+  {
+    "name": "Dynamo Kyiv",
+    "league": "Other",
+    "searchName": "dynamo kyiv"
+  },
+  {
+    "name": "Eintracht Frankfurt",
+    "league": "Bundesliga",
+    "searchName": "eintracht frankfurt"
+  },
+  {
+    "name": "Estudiantes de La Plata",
+    "league": "Other",
+    "searchName": "estudiantes de la plata"
+  },
+  {
+    "name": "Everton FC",
+    "league": "Premier League",
+    "searchName": "everton fc"
+  },
+  {
+    "name": "Eyüpspor",
+    "league": "Süper Lig",
+    "searchName": "eyupspor"
+  },
+  {
+    "name": "Famalicão",
+    "league": "Liga Portugal",
+    "searchName": "famalicao"
+  },
+  {
+    "name": "FC Arouca",
+    "league": "Liga Portugal",
+    "searchName": "fc arouca"
+  },
+  {
+    "name": "FC Augsburg",
+    "league": "Bundesliga",
+    "searchName": "fc augsburg"
+  },
+  {
+    "name": "FC Barcelona",
+    "league": "La Liga",
+    "searchName": "fc barcelona"
+  },
+  {
+    "name": "FC Cincinnati",
+    "league": "Other",
+    "searchName": "fc cincinnati"
+  },
+  {
+    "name": "FC Groningen",
+    "league": "Eredivisie",
+    "searchName": "fc groningen"
+  },
+  {
+    "name": "FC Midtjylland",
+    "league": "Other",
+    "searchName": "fc midtjylland"
+  },
+  {
+    "name": "FC Nantes",
+    "league": "Ligue 1",
+    "searchName": "fc nantes"
+  },
+  {
+    "name": "FC Porto",
+    "league": "Liga Portugal",
+    "searchName": "fc porto"
+  },
+  {
+    "name": "FC St. Pauli",
+    "league": "Bundesliga",
+    "searchName": "fc st pauli"
+  },
+  {
+    "name": "FC Twente",
+    "league": "Eredivisie",
+    "searchName": "fc twente"
+  },
+  {
+    "name": "FC Utrecht",
+    "league": "Eredivisie",
+    "searchName": "fc utrecht"
+  },
+  {
+    "name": "Fenerbahçe SK",
+    "league": "Süper Lig",
+    "searchName": "fenerbahce sk"
+  },
+  {
+    "name": "Feyenoord",
+    "league": "Eredivisie",
+    "searchName": "feyenoord"
+  },
+  {
+    "name": "Fiorentina",
+    "league": "Serie A",
+    "searchName": "fiorentina"
+  },
+  {
+    "name": "FK Bodø/Glimt",
+    "league": "Other",
+    "searchName": "fk bodglimt"
+  },
+  {
+    "name": "Flamengo",
+    "league": "Other",
+    "searchName": "flamengo"
+  },
+  {
+    "name": "Fluminense",
+    "league": "Other",
+    "searchName": "fluminense"
+  },
+  {
+    "name": "Frosinone",
+    "league": "Other",
+    "searchName": "frosinone"
+  },
+  {
+    "name": "Fulham FC",
+    "league": "Premier League",
+    "searchName": "fulham fc"
+  },
+  {
+    "name": "Galatasaray SK",
+    "league": "Süper Lig",
+    "searchName": "galatasaray sk"
+  },
+  {
+    "name": "Gaziantep FK",
+    "league": "Süper Lig",
+    "searchName": "gaziantep fk"
+  },
+  {
+    "name": "GD Estoril Praia",
+    "league": "Liga Portugal",
+    "searchName": "gd estoril praia"
+  },
+  {
+    "name": "Genoa",
+    "league": "Serie A",
+    "searchName": "genoa"
+  },
+  {
+    "name": "Getafe CF",
+    "league": "La Liga",
+    "searchName": "getafe cf"
+  },
+  {
+    "name": "Gimnasia y Esgrima de Mendoza",
+    "league": "Other",
+    "searchName": "gimnasia y esgrima de mendoza"
+  },
+  {
+    "name": "Girona FC",
+    "league": "La Liga",
+    "searchName": "girona fc"
+  },
+  {
+    "name": "GNK Dinamo Zagreb",
+    "league": "Other",
+    "searchName": "gnk dinamo zagreb"
+  },
+  {
+    "name": "Go Ahead Eagles",
+    "league": "Eredivisie",
+    "searchName": "go ahead eagles"
+  },
+  {
+    "name": "Göztepe SK",
+    "league": "Süper Lig",
+    "searchName": "goztepe sk"
+  },
+  {
+    "name": "Grazer AK 1902",
+    "league": "Eredivisie",
+    "searchName": "grazer ak 1902"
+  },
+  {
+    "name": "Guadalajara",
+    "league": "Other",
+    "searchName": "guadalajara"
+  },
+  {
+    "name": "Hamburger SV",
+    "league": "Other",
+    "searchName": "hamburger sv"
+  },
+  {
+    "name": "Hellas Verona FC",
+    "league": "Serie A",
+    "searchName": "hellas verona fc"
+  },
+  {
+    "name": "Hull City",
+    "league": "Other",
+    "searchName": "hull city"
+  },
+  {
+    "name": "Inter Kashi",
+    "league": "Serie A",
+    "searchName": "inter kashi"
+  },
+  {
+    "name": "Inter Miami",
+    "league": "Serie A",
+    "searchName": "inter miami"
+  },
+  {
+    "name": "Inter Milan",
+    "league": "Serie A",
+    "searchName": "inter milan"
+  },
+  {
+    "name": "Ipswich Town",
+    "league": "Premier League",
+    "searchName": "ipswich town"
+  },
+  {
+    "name": "Juventus",
+    "league": "Serie A",
+    "searchName": "juventus"
+  },
+  {
+    "name": "Juventus FC",
+    "league": "Serie A",
+    "searchName": "juventus fc"
+  },
+  {
+    "name": "KAA Gent",
+    "league": "Other",
+    "searchName": "kaa gent"
+  },
+  {
+    "name": "Kasımpaşa SK",
+    "league": "Süper Lig",
+    "searchName": "kasimpasa sk"
+  },
+  {
+    "name": "Konyaspor",
+    "league": "Süper Lig",
+    "searchName": "konyaspor"
+  },
+  {
+    "name": "KRC Genk",
+    "league": "Other",
+    "searchName": "krc genk"
+  },
+  {
+    "name": "LA Galaxy",
+    "league": "Other",
+    "searchName": "la galaxy"
+  },
+  {
+    "name": "Lanús",
+    "league": "Other",
+    "searchName": "lanus"
+  },
+  {
+    "name": "Lecce",
+    "league": "Serie A",
+    "searchName": "lecce"
+  },
+  {
+    "name": "Leeds United",
+    "league": "Other",
+    "searchName": "leeds united"
+  },
+  {
+    "name": "Leicester City",
+    "league": "Premier League",
+    "searchName": "leicester city"
+  },
+  {
+    "name": "Levante UD",
+    "league": "Other",
+    "searchName": "levante ud"
+  },
+  {
+    "name": "Lille OSC",
+    "league": "Ligue 1",
+    "searchName": "lille osc"
+  },
+  {
+    "name": "Lillestrøm SK",
+    "league": "Ligue 1",
+    "searchName": "lillestrm sk"
+  },
+  {
+    "name": "Liverpool FC",
+    "league": "Premier League",
+    "searchName": "liverpool fc"
+  },
+  {
+    "name": "Los Angeles FC",
+    "league": "Other",
+    "searchName": "los angeles fc"
+  },
+  {
+    "name": "Manchester City",
+    "league": "Premier League",
+    "searchName": "manchester city"
+  },
+  {
+    "name": "Manchester United",
+    "league": "Premier League",
+    "searchName": "manchester united"
+  },
+  {
+    "name": "Medipol Başakşehir FK",
+    "league": "Süper Lig",
+    "searchName": "medipol basaksehir fk"
+  },
+  {
+    "name": "Monterrey",
+    "league": "Other",
+    "searchName": "monterrey"
+  },
+  {
+    "name": "Montpellier HSC",
+    "league": "Ligue 1",
+    "searchName": "montpellier hsc"
+  },
+  {
+    "name": "Monza",
+    "league": "Serie A",
+    "searchName": "monza"
+  },
+  {
+    "name": "Napoli",
+    "league": "Serie A",
+    "searchName": "napoli"
+  },
+  {
+    "name": "Nashville SC",
+    "league": "Other",
+    "searchName": "nashville sc"
+  },
+  {
+    "name": "NEC Nijmegen",
+    "league": "Eredivisie",
+    "searchName": "nec nijmegen"
+  },
+  {
+    "name": "NEOM SC",
+    "league": "Other",
+    "searchName": "neom sc"
+  },
+  {
+    "name": "New England Revolution",
+    "league": "Other",
+    "searchName": "new england revolution"
+  },
+  {
+    "name": "Newcastle Jets",
+    "league": "Premier League",
+    "searchName": "newcastle jets"
+  },
+  {
+    "name": "Newcastle United",
+    "league": "Premier League",
+    "searchName": "newcastle united"
+  },
+  {
+    "name": "Nottingham Forest",
+    "league": "Premier League",
+    "searchName": "nottingham forest"
+  },
+  {
+    "name": "OGC Nice",
+    "league": "Ligue 1",
+    "searchName": "ogc nice"
+  },
+  {
+    "name": "Oldham Athletic",
+    "league": "La Liga",
+    "searchName": "oldham athletic"
+  },
+  {
+    "name": "Olympiacos FC",
+    "league": "Other",
+    "searchName": "olympiacos fc"
+  },
+  {
+    "name": "Olympique de Marseille",
+    "league": "Ligue 1",
+    "searchName": "olympique de marseille"
+  },
+  {
+    "name": "Olympique Lyonnais",
+    "league": "Ligue 1",
+    "searchName": "olympique lyonnais"
+  },
+  {
+    "name": "Orlando City SC",
+    "league": "Other",
+    "searchName": "orlando city sc"
+  },
+  {
+    "name": "Palmeiras",
+    "league": "Other",
+    "searchName": "palmeiras"
+  },
+  {
+    "name": "Panathinaikos FC",
+    "league": "Other",
+    "searchName": "panathinaikos fc"
+  },
+  {
+    "name": "Paris FC",
+    "league": "Ligue 1",
+    "searchName": "paris fc"
+  },
+  {
+    "name": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "searchName": "paris saintgermain"
+  },
+  {
+    "name": "Parma Calcio",
+    "league": "Serie A",
+    "searchName": "parma calcio"
+  },
+  {
+    "name": "Peñarol",
+    "league": "Other",
+    "searchName": "penarol"
+  },
+  {
+    "name": "PSV",
+    "league": "Eredivisie",
+    "searchName": "psv"
+  },
+  {
+    "name": "Pumas UNAM",
+    "league": "Other",
+    "searchName": "pumas unam"
+  },
+  {
+    "name": "Racing Santander",
+    "league": "Other",
+    "searchName": "racing santander"
+  },
+  {
+    "name": "Rangers FC",
+    "league": "Other",
+    "searchName": "rangers fc"
+  },
+  {
+    "name": "Rayo Vallecano",
+    "league": "La Liga",
+    "searchName": "rayo vallecano"
+  },
+  {
+    "name": "RB Leipzig",
+    "league": "Bundesliga",
+    "searchName": "rb leipzig"
+  },
+  {
+    "name": "RC Celta",
+    "league": "La Liga",
+    "searchName": "rc celta"
+  },
+  {
+    "name": "RC Celta Fortuna",
+    "league": "La Liga",
+    "searchName": "rc celta fortuna"
+  },
+  {
+    "name": "RC Deportivo A Coruña",
+    "league": "Other",
+    "searchName": "rc deportivo a coruna"
+  },
+  {
+    "name": "RC Lens",
+    "league": "Ligue 1",
+    "searchName": "rc lens"
+  },
+  {
+    "name": "RC Strasbourg Alsace",
+    "league": "Ligue 1",
+    "searchName": "rc strasbourg alsace"
+  },
+  {
+    "name": "RCD Espanyol",
+    "league": "La Liga",
+    "searchName": "rcd espanyol"
+  },
+  {
+    "name": "RCD Mallorca",
+    "league": "La Liga",
+    "searchName": "rcd mallorca"
+  },
+  {
+    "name": "Real Betis Balompié",
+    "league": "La Liga",
+    "searchName": "real betis balompie"
+  },
+  {
+    "name": "Real Madrid",
+    "league": "La Liga",
+    "searchName": "real madrid"
+  },
+  {
+    "name": "Real Oviedo",
+    "league": "Other",
+    "searchName": "real oviedo"
+  },
+  {
+    "name": "Real Sociedad",
+    "league": "La Liga",
+    "searchName": "real sociedad"
+  },
+  {
+    "name": "Real Sociedad de Fútbol B",
+    "league": "La Liga",
+    "searchName": "real sociedad de futbol b"
+  },
+  {
+    "name": "Real Sporting de Gijón",
+    "league": "Liga Portugal",
+    "searchName": "real sporting de gijon"
+  },
+  {
+    "name": "Real Valladolid CF",
+    "league": "La Liga",
+    "searchName": "real valladolid cf"
+  },
+  {
+    "name": "Red Bull Bragantino",
+    "league": "Liga Portugal",
+    "searchName": "red bull bragantino"
+  },
+  {
+    "name": "River Plate",
+    "league": "Other",
+    "searchName": "river plate"
+  },
+  {
+    "name": "Rosario Central",
+    "league": "Other",
+    "searchName": "rosario central"
+  },
+  {
+    "name": "Royal Charleroi Sporting Club",
+    "league": "Liga Portugal",
+    "searchName": "royal charleroi sporting club"
+  },
+  {
+    "name": "Samsunspor",
+    "league": "Süper Lig",
+    "searchName": "samsunspor"
+  },
+  {
+    "name": "San Diego FC",
+    "league": "Other",
+    "searchName": "san diego fc"
+  },
+  {
+    "name": "Santa Clara",
+    "league": "Liga Portugal",
+    "searchName": "santa clara"
+  },
+  {
+    "name": "Santos",
+    "league": "Other",
+    "searchName": "santos"
+  },
+  {
+    "name": "São Paulo",
+    "league": "Other",
+    "searchName": "sao paulo"
+  },
+  {
+    "name": "Sassuolo",
+    "league": "Other",
+    "searchName": "sassuolo"
+  },
+  {
+    "name": "SC Freiburg",
+    "league": "Bundesliga",
+    "searchName": "sc freiburg"
+  },
+  {
+    "name": "SC Heerenveen",
+    "league": "Eredivisie",
+    "searchName": "sc heerenveen"
+  },
+  {
+    "name": "Schalke 04",
+    "league": "Other",
+    "searchName": "schalke 04"
+  },
+  {
+    "name": "Sevilla FC",
+    "league": "La Liga",
+    "searchName": "sevilla fc"
+  },
+  {
+    "name": "SK Slavia Praha",
+    "league": "Other",
+    "searchName": "sk slavia praha"
+  },
+  {
+    "name": "SK Sturm Graz",
+    "league": "Eredivisie",
+    "searchName": "sk sturm graz"
+  },
+  {
+    "name": "SL Benfica",
+    "league": "Liga Portugal",
+    "searchName": "sl benfica"
+  },
+  {
+    "name": "Southampton FC",
+    "league": "Premier League",
+    "searchName": "southampton fc"
+  },
+  {
+    "name": "Sparta Praha",
+    "league": "Eredivisie",
+    "searchName": "sparta praha"
+  },
+  {
+    "name": "Sparta Rotterdam",
+    "league": "Eredivisie",
+    "searchName": "sparta rotterdam"
+  },
+  {
+    "name": "Sporting Clube de Braga",
+    "league": "Liga Portugal",
+    "searchName": "sporting clube de braga"
+  },
+  {
+    "name": "Sporting CP",
+    "league": "Liga Portugal",
+    "searchName": "sporting cp"
+  },
+  {
+    "name": "Sporting Cristal",
+    "league": "Liga Portugal",
+    "searchName": "sporting cristal"
+  },
+  {
+    "name": "Sporting Kansas City",
+    "league": "Liga Portugal",
+    "searchName": "sporting kansas city"
+  },
+  {
+    "name": "SS Lazio",
+    "league": "Serie A",
+    "searchName": "ss lazio"
+  },
+  {
+    "name": "SSC Napoli",
+    "league": "Serie A",
+    "searchName": "ssc napoli"
+  },
+  {
+    "name": "St Patrick's Athletic FC",
+    "league": "La Liga",
+    "searchName": "st patricks athletic fc"
+  },
+  {
+    "name": "Stade Brestois 29",
+    "league": "Ligue 1",
+    "searchName": "stade brestois 29"
+  },
+  {
+    "name": "Stade de Reims",
+    "league": "Ligue 1",
+    "searchName": "stade de reims"
+  },
+  {
+    "name": "Stade Rennais",
+    "league": "Other",
+    "searchName": "stade rennais"
+  },
+  {
+    "name": "Sunderland AFC",
+    "league": "Other",
+    "searchName": "sunderland afc"
+  },
+  {
+    "name": "Tigres UANL",
+    "league": "Other",
+    "searchName": "tigres uanl"
+  },
+  {
+    "name": "Toluca",
+    "league": "Other",
+    "searchName": "toluca"
+  },
+  {
+    "name": "Torino FC",
+    "league": "Serie A",
+    "searchName": "torino fc"
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "league": "Premier League",
+    "searchName": "tottenham hotspur"
+  },
+  {
+    "name": "Toulouse FC",
+    "league": "Ligue 1",
+    "searchName": "toulouse fc"
+  },
+  {
+    "name": "Trabzonspor",
+    "league": "Süper Lig",
+    "searchName": "trabzonspor"
+  },
+  {
+    "name": "TSG 1899 Hoffenheim",
+    "league": "Bundesliga",
+    "searchName": "tsg 1899 hoffenheim"
+  },
+  {
+    "name": "TSG 1899 Hoffenheim II",
+    "league": "Bundesliga",
+    "searchName": "tsg 1899 hoffenheim ii"
+  },
+  {
+    "name": "UD Las Palmas",
+    "league": "La Liga",
+    "searchName": "ud las palmas"
+  },
+  {
+    "name": "Udinese Calcio",
+    "league": "Serie A",
+    "searchName": "udinese calcio"
+  },
+  {
+    "name": "Union Saint-Gilloise",
+    "league": "Other",
+    "searchName": "union saintgilloise"
+  },
+  {
+    "name": "Valencia CF",
+    "league": "La Liga",
+    "searchName": "valencia cf"
+  },
+  {
+    "name": "Vancouver Whitecaps FC",
+    "league": "Other",
+    "searchName": "vancouver whitecaps fc"
+  },
+  {
+    "name": "VfB Stuttgart",
+    "league": "Bundesliga",
+    "searchName": "vfb stuttgart"
+  },
+  {
+    "name": "VfB Stuttgart II",
+    "league": "Bundesliga",
+    "searchName": "vfb stuttgart ii"
+  },
+  {
+    "name": "VfL Bochum 1848",
+    "league": "Bundesliga",
+    "searchName": "vfl bochum 1848"
+  },
+  {
+    "name": "VfL Wolfsburg",
+    "league": "Bundesliga",
+    "searchName": "vfl wolfsburg"
+  },
+  {
+    "name": "Viking FK",
+    "league": "Other",
+    "searchName": "viking fk"
+  },
+  {
+    "name": "Villarreal CF",
+    "league": "La Liga",
+    "searchName": "villarreal cf"
+  },
+  {
+    "name": "Werder Bremen",
+    "league": "Bundesliga",
+    "searchName": "werder bremen"
+  },
+  {
+    "name": "West Ham United",
+    "league": "Premier League",
+    "searchName": "west ham united"
+  },
+  {
+    "name": "Wigan Athletic",
+    "league": "La Liga",
+    "searchName": "wigan athletic"
+  },
+  {
+    "name": "Wolverhampton Wanderers",
+    "league": "Other",
+    "searchName": "wolverhampton wanderers"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "quick-meitner-backend",
+  "version": "1.0.0",
+  "description": "Football Multiplayer Room & Voice Chat Game Server",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "clean-data": "node src/scripts/fetch_and_clean.js",
+    "share": "npx --yes localtunnel --port 4000"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.8.4"
+  }
+}
