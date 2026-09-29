@@ -2,6 +2,8 @@
 
 Bu platform; gerçek zamanlı futbol bilgi yarışmalarını, takım kurma modlarını, tek masalı özel davet kodlu oda sistemini, WebRTC sesli sohbeti ve masa kurucusu yönetim araçlarını tek bir modern web uygulamasında bir araya getirir.
 
+https://futbol-oyunu-re1z.onrender.com/
+
 ---
 
 ## 🚀 Hızlı Başlangıç
