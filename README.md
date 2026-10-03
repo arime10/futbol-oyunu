@@ -68,7 +68,7 @@ npm run dev
 
 ## 🎮 Mevcut Oyun Modları
 
-1. **Griddy / Footy Tic-Tac-Toe:** 3x3 matriste satır ve sütun kriterlerine uyan futbolcuları bulup yerleştirme (+15 puan).
+1. **Footy Tic-Tac-Toe:** 3x3 matriste satır ve sütun kriterlerine uyan futbolcuları bulup yerleştirme (+15 puan).
 2. **FUT Squad Draft:** 11 turda mevkine göre 5 kart arasından seçim yapıp kadro kurma ve reyting savaşı.
 3. **Kulüp Rebuild Challenge:** Krizdeki takımı bütçeyle transfer pazarından yeniden ayağa kaldırma.
 4. **Kariyer Yolu Tahmini:** Sırayla açılan kulüplerden gizemli futbolcuyu buzzer'a basarak ilk tahmin etme oyunu (+25 puan).
